@@ -1,0 +1,9 @@
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\bin\Debug\EnviarCorreos.exe.config
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\bin\Debug\EnviarCorreos.exe
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\bin\Debug\EnviarCorreos.pdb
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\obj\Debug\EnviarCorreos.csprojResolveAssemblyReference.cache
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\obj\Debug\EnviarCorreos.Form1.resources
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\obj\Debug\EnviarCorreos.Properties.Resources.resources
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\obj\Debug\EnviarCorreos.csproj.GenerateResource.Cache
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\obj\Debug\EnviarCorreos.exe
+C:\Users\USER\Dropbox\Programacion\EnviarCorreos_Demo\EnviarCorreos\EnviarCorreos\obj\Debug\EnviarCorreos.pdb
